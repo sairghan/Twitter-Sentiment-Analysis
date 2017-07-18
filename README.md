@@ -23,6 +23,7 @@ In order to fetch tweets through Twitter API, one needs to register an App throu
 
     Open this link and click the button: ‘Create New App’
 <https://apps.twitter.com/>
+    
     Fill the application details. You can leave the callback url field empty.
     Once the app is created, you will be redirected to the app page.
     Open the ‘Keys and Access Tokens’ tab. 
